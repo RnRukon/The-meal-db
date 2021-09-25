@@ -1,0 +1,17 @@
+.product-header-title {
+    text-align: center;
+    font-size: 25px;
+    color: mediumvioletred;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 20px;
+}
+
+.product {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}

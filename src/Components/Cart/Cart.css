@@ -1,0 +1,19 @@
+.Cart {
+    background-color: firebrick;
+    color: floralwhite;
+    margin-left: 50px;
+    width: 300px;
+    padding: 20px;
+}
+
+.count, .order {
+    text-align: center;
+}
+
+.container {
+    border: 1px solid gold;
+}
+
+.order-container {
+    border-top: 1px solid gold
+}
